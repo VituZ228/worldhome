@@ -9,7 +9,25 @@
 				"C:/Users/rychk/Desktop/WorldHome/worldhome/Content/UI_and_Widgets/Planet_system/Blueprints/Enums/Modificators_Vars.uasset",
 				"C:/Users/rychk/Desktop/WorldHome/worldhome/Content/Actors/Planets/Master_Planet_Asset.uasset",
 				"C:/Users/rychk/Desktop/WorldHome/worldhome/Content/Actors/Buildings/Civilian_Buildings/BP_Farm.uasset",
-				"C:/Users/rychk/Desktop/WorldHome/worldhome/Content/UI_and_Widgets/Planet_system/Blueprints/ChoosePlanet.uasset"
+				"C:/Users/rychk/Desktop/WorldHome/worldhome/Content/UI_and_Widgets/Planet_system/Blueprints/ChoosePlanet.uasset",
+				"C:/Users/rychk/Desktop/WorldHome/worldhome/Content/CameraAndControllerStuff/controllerCam.uasset",
+				"C:/Users/rychk/Desktop/WorldHome/worldhome/Content/CameraAndControllerStuff/PPS_BuildSystem.uasset",
+				"C:/Users/rychk/Desktop/WorldHome/worldhome/Content/CameraAndControllerStuff/cameraplayer.uasset",
+				"C:/Users/rychk/Desktop/WorldHome/worldhome/Content/All_Resourses/MapsInUsing/SPACE_LEVEL.umap",
+				"C:/Users/rychk/Desktop/WorldHome/worldhome/Content/SaveGame/GlobalGameInstance.uasset",
+				"C:/Users/rychk/Desktop/WorldHome/worldhome/Content/UI_and_Widgets/Colony_system/BuildingsWidgets/Building_Interaction_Widget.uasset",
+				"C:/Users/rychk/Desktop/WorldHome/worldhome/Content/UI_and_Widgets/Colony_system/BuildingsWidgets/Starport_Widget.uasset",
+				"C:/Users/rychk/Desktop/WorldHome/worldhome/Content/Actors/Buildings/Civilian_Buildings/BP_Starport.uasset",
+				"C:/Users/rychk/Desktop/WorldHome/worldhome/Content/Actors/Buildings/Civilian_Buildings/BP_Energy_Station.uasset",
+				"C:/Users/rychk/Desktop/WorldHome/worldhome/Content/Actors/Buildings/Civilian_Buildings/BP_MediumHouse.uasset",
+				"C:/Users/rychk/Desktop/WorldHome/worldhome/Content/Actors/Buildings/Civilian_Buildings/BP_SmallHouse.uasset",
+				"C:/Users/rychk/Desktop/WorldHome/worldhome/Content/Actors/Buildings/Civilian_Buildings/BP_BigHouse.uasset",
+				"C:/Users/rychk/Desktop/WorldHome/worldhome/Content/Actors/Buildings/Extracting_Buildings/BP_Acid_Extractor.uasset",
+				"C:/Users/rychk/Desktop/WorldHome/worldhome/Content/Actors/Buildings/Extracting_Buildings/BP_Gaz_Extractor.uasset",
+				"C:/Users/rychk/Desktop/WorldHome/worldhome/Content/Actors/Buildings/Extracting_Buildings/BP_PromMet_Mine.uasset",
+				"C:/Users/rychk/Desktop/WorldHome/worldhome/Content/Actors/Buildings/Extracting_Buildings/BP_RareMet_Mine.uasset",
+				"C:/Users/rychk/Desktop/WorldHome/worldhome/Content/UI_and_Widgets/Colony_system/BuildingsWidgets/Building_System_Widget.uasset",
+				"C:/Users/rychk/Desktop/WorldHome/worldhome/Content/UI_and_Widgets/Buafpoasp.uasset"
 			]
 		}
 	]
