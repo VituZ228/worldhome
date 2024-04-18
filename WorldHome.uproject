@@ -23,6 +23,11 @@
 			"Name": "FastNoiseGenerator",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/527737f42da544e9abf8607a40495fbd"
+		},
+		{
+			"Name": "AgoraFogOfWar",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/8de4695d5ae34ab48e433295c9c2cdb3"
 		}
 	]
 }
